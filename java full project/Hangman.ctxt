@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hangman
+comment1.params=
+comment1.target=Hangman()
+comment2.params=
+comment2.target=java.lang.String\ Get_Random_Word()
+comment3.params=a\ len
+comment3.target=char[]\ Initialize_Guessed_Word(java.lang.String,\ int)
+comment4.params=Real_word\ guessedWord\ guessedChar
+comment4.target=void\ Update_Guessed_word(java.lang.String,\ char[],\ char)
+comment5.params=
+comment5.target=void\ PlayHangman()
+numComments=6

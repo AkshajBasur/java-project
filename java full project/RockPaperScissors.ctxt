@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RockPaperScissors
+comment1.params=
+comment1.target=void\ PlayRockPaperScissors()
+comment2.params=move
+comment2.target=java.lang.String\ getMove(int)
+comment3.params=userMove\ computerMove
+comment3.target=java.lang.String\ getResult(java.lang.String,\ int)
+numComments=4
